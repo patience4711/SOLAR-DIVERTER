@@ -10,5 +10,7 @@ In this meter we can put a dongle (home wizzard or diy [look here](https://githu
 The s.i. now drives a thyristor dimmer open so that exactly the amount of excess the flows into our HWC. The HWC we can put in series with our normal hot water supply. 
 As the HWC normally has to heat cold water, the water is already (partially) warmed up, so here can save energy. 
 
+This dimmer can work with thyristors and also with solid state relais. Complete with cooling body they are not very expensive. 
+
 ![DIVERTER](https://github.com/user-attachments/assets/24d69c4e-29d5-4c90-af08-9f484eec1a6b)
 
