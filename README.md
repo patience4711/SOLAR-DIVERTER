@@ -4,7 +4,7 @@ The s.i. is a means of storing excess solar production in a hot-water cylinder (
 Check out the [wiki](https://github.com/patience4711/SOLAR-DIVERTER/wiki) for more info
 
 ## the system
-The software currently runs on a esp32c3 (optional with oled display). All settings can be done via the webui.
+The software currently runs on a esp32c3 (optional with oled display). All settings can be done via the webui.<br>
 ![settings_1](https://github.com/user-attachments/assets/042de2c8-96dc-4ca5-92d3-14469ccc7f19)
 
 ## b.o.m < 20$
