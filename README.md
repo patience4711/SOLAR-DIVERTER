@@ -1,5 +1,5 @@
 # SOLAR-DIVERTER
-The s.i. is a means of storing excess solar production in a hot-water cylinder (HWC) instead of deliver it to the grid, where it is unwanted and doesn't make any money. The HWC essentially functions as a cheap solar battery (3 times cheaper than a real home battery). For a handy person this is a very simple diy project.
+The s.i. is a means of storing excess solar production in a hot-water cylinder (HWC) instead of deliver it to the grid, where it is unwanted and doesn't make any money. The HWC essentially functions as a cheap solar battery (3 times cheaper than a real home battery, payback period 3 yrs). For a handy person this is a very simple diy project.
 
 Check out the [wiki](https://github.com/patience4711/SOLAR-DIVERTER/wiki) for more info
 
